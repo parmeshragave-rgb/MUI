@@ -3,13 +3,15 @@ import './App.css'
 // import Muibutton from './Muibutton'
 // import Muitypo from './Muitypography'
 // import MuiTextfield from './MuiTextfield'
-import Makestyles from './Makestyles'
+// import Makestyles from './Makestyles'
+import Sx from './sx'
 function App() {
 
 
   return (
     <>
-    <Makestyles/>
+    <Sx/>
+    {/* <Makestyles/> */}
     {/* <Makestylesfun/> */}
       {/* <Muitypo/> */}
       {/* <Muibutton/> */}
