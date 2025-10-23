@@ -3,11 +3,11 @@ import React from "react"
 
 
 function Sx(){
- const classes=useStyles()
+ 
     return(
         <Stack spacing={2}>
             <Typography variant="h1">Click The Button Below</Typography>
-             <Button variant="contained" size="small" className={classes.btn}
+             <Button variant="contained" size="small"  
              sx={
                 {
                      backgroundColor:"yellow !important",
