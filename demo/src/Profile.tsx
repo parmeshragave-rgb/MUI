@@ -1,4 +1,4 @@
-// Profile.js
+
 import React, { Component } from "react";
 import { useauth } from "./auth";
 import { Button } from "@mui/material";
